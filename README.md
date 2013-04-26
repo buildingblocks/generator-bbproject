@@ -4,11 +4,16 @@ Building Blocks Project Generator
 A simple Yeoman generator for the BB PRoject
 
 
-Usage 
+Installation
 ---------------
 
 1. Install Yeoman: `npm install -g yo`
 2. Install the generator: `npm install -g generator-bbproject`
+
+Usage
+---------------
+1. Create a new directory for your project `mkdir project`
+2. Go into that folder `cd project`
 3. Run: `yo bbproject`
 4. Start using Boilerplate
 
