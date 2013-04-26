@@ -5,7 +5,7 @@
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/JohnCashBB/generator-bbproject.git"
+    "url": "git://github.com/buildingblocks/generator-bbproject.git"
   },
   "keywords": [
     "yeoman-generator"
