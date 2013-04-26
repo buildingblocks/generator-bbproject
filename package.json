@@ -1,18 +1,18 @@
 {
-  "name": "generator-boilerplate",
+  "name": "generator-bbproject",
   "version": "0.1.4",
-  "description": "Yeoman Generator for ...",
+  "description": "Yeoman Generator for BB Project",
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/addyosmani/generator-boilerplate.git"
+    "url": "git://github.com/JohnCashBB/generator-bbproject.git"
   },
   "keywords": [
     "yeoman-generator"
   ],
   "author": {
-    "name": "Addy Osmani",
-    "email": "addyosmani@gmail.com"
+    "name": "John Cashmore",
+    "email": "j.cashmore@building-blocks.com"
   },
   "engines": {
     "node": ">=0.8.0"
