@@ -1,6 +1,6 @@
 {
   "name": "generator-bbproject",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Yeoman Generator for BB Project",
   "main": "app/index.js",
   "repository": {
@@ -26,13 +26,6 @@
     }
   ],
   "dependencies": {
-    "yeoman-generator": "~0.10.2",
-    "grunt": "0.4.x",
-    "grunt-contrib-less": "~0.5.0",
-    "grunt-contrib-concat": "~0.2.0",
-    "grunt-init": "~0.2.0",
-    "grunt-contrib-uglify": "~0.2.0",
-    "grunt-contrib-jshint": "~0.4.3",
-    "grunt-contrib-watch": "~0.3.1"
+    "yeoman-generator": "~0.10.2"
   }
 }

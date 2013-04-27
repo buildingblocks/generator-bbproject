@@ -17,7 +17,8 @@ Usage
 1. Create a new directory for your project `mkdir project`
 2. Go into that folder `cd project`
 3. Run: `yo bbproject`
-4. Start using Boilerplate
+4. Run: `npm install`
+5. Start using Boilerplate
 
 
 Remember to keep your npm modules upto date.
