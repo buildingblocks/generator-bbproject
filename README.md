@@ -1,7 +1,9 @@
 Building Blocks Project Generator
 ========================================
 
-A simple Yeoman generator for the BB PRoject
+A simple Yeoman generator for the BB Project (https://github.com/buildingblocks/BBProject), which is a simple front end framework for working with less and javascript.
+
+
 
 
 Installation
