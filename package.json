@@ -1,6 +1,6 @@
 {
   "name": "generator-bbproject",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Yeoman Generator for BB Project",
   "main": "app/index.js",
   "repository": {
@@ -8,7 +8,10 @@
     "url": "git://github.com/buildingblocks/generator-bbproject.git"
   },
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "less",
+    "framework",
+    "buildingblocks"
   ],
   "author": {
     "name": "John Cashmore",
