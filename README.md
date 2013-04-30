@@ -23,4 +23,4 @@ Usage
 
 Remember to keep your npm modules upto date.
 
-`npm update -g` | `sudo npm update -g`
+`npm update -g` or `sudo npm update -g`
