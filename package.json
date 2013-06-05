@@ -1,6 +1,6 @@
 {
   "name": "generator-bbproject",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Yeoman Generator for BB Project",
   "main": "app/index.js",
   "repository": {
