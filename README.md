@@ -24,3 +24,8 @@ Usage
 Remember to keep your npm modules upto date.
 
 `npm update -g` or `sudo npm update -g`
+
+Existing users 
+---------------
+
+You may need to do `npm cache clean generator-bbproject && npm install generator-bbproject` or `sudo npm cache clean generator-bbproject && sudo npm install generator-bbproject`
