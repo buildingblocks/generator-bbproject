@@ -15,7 +15,7 @@ var Generator = module.exports = function() {
   this.package = JSON.parse(this.readFileAsString(path.join(__dirname, '../package.json')));
 
   this.on('end', function () {
-    this.installDependencies({ skipInstall: options['skip-install'] });
+    this.installDependencies();
   });
 
 
