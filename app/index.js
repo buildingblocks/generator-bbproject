@@ -10,7 +10,7 @@ var Generator = module.exports = function() {
     'README.md',
   ];
 
-
+  this.config.save();
 
   this.package = JSON.parse(this.readFileAsString(path.join(__dirname, '../package.json')));
 
