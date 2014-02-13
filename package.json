@@ -1,6 +1,6 @@
 {
   "name": "generator-bbproject",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "Front end project boilerplate for Less based sites. Used at Building Blocks Ltd.",
   "main": "app/index.js",
   "repository": {
