@@ -28,4 +28,4 @@ Remember to keep your npm modules upto date.
 Existing users 
 ---------------
 
-You may need to do `npm cache clean generator-bbproject && npm install generator-bbproject` or `sudo npm cache clean generator-bbproject && sudo npm install generator-bbproject`
+You may need to do `npm cache clean generator-bbproject && npm install -g generator-bbproject` or `sudo npm cache clean generator-bbproject && sudo npm install -g generator-bbproject`
